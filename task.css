@@ -1,0 +1,22 @@
+h2{
+    color: chocolate;
+    background-color: green;
+}
+h4{
+    background-size: contain;
+    box-shadow: 10px;
+    color: aquamarine;
+    background-color: darkorchid;
+}
+.white{
+    border-style: hidden;
+    border-top-right-radius: 25px;
+    margin: 25px;
+    padding: 30px;
+    background-position: 15px;
+    box-sizing: content-box;
+    box-decoration-break: slice;
+    border: dashed;
+    box-shadow: 200px;
+    background-color: burlywood;
+}
